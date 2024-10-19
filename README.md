@@ -17,6 +17,10 @@ Currently, the repository contains the following:
   - **Reading input from buttons** and toggling outputs.
   - **Interfacing with switches** to manage LED states.
 
+<div align="center">
+   <img src="https://github.com/JackobPunch/IndustrialSolutionsOfElectricDrives/blob/main/gif.gif" alt="GIF" />
+</div>
+
 The project demonstrates how to handle basic digital I/O using the FPGA on the Digilent Arty Z7-10 board.
 
 More folders and projects will be added as the course progresses, covering further implementations of both FPGA and microcontroller systems for controlling industrial electric drives.
