@@ -21,8 +21,6 @@ Currently, the repository contains the following:
    <img src="https://github.com/JackobPunch/IndustrialSolutionsOfElectricDrives/blob/main/gif.gif" alt="GIF" />
 </div>
 
-The project demonstrates how to handle basic digital I/O using the FPGA on the Digilent Arty Z7-10 board.
-
 More folders and projects will be added as the course progresses, covering further implementations of both FPGA and microcontroller systems for controlling industrial electric drives.
 
 ---
@@ -34,4 +32,4 @@ More folders and projects will be added as the course progresses, covering furth
 
 ### Software:
 - **Vivado Design Suite**: Used for designing, simulating, and programming the FPGA.
-- **Xilinx SDK**: For embedded software development on the microcontroller (if needed).
+- **Xilinx SDK**: For embedded software development on the microcontroller.
